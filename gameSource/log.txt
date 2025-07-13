@@ -1,0 +1,850 @@
+L4 | Sun Jul 13 19:31:59 2025 (919 ms) | general | New game starting up
+L4 | Sun Jul 13 19:31:59 2025 (919 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 19:31:59 2025 (920 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 19:31:59 2025 (920 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 19:31:59 2025 (920 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 19:31:59 2025 (920 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 19:31:59 2025 (920 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 19:31:59 2025 (921 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 19:31:59 2025 (921 ms) | general | 30 fps
+L4 | Sun Jul 13 19:31:59 2025 (921 ms) | general | 60 fps
+L4 | Sun Jul 13 19:31:59 2025 (921 ms) | general | 100 fps
+L4 | Sun Jul 13 19:31:59 2025 (921 ms) | general | 120 fps
+L4 | Sun Jul 13 19:31:59 2025 (921 ms) | general | 144 fps
+L4 | Sun Jul 13 19:31:59 2025 (921 ms) | general | 165 fps
+L4 | Sun Jul 13 19:31:59 2025 (922 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 19:31:59 2025 (923 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 19:31:59 2025 (923 ms) | general | All resolutions available
+L4 | Sun Jul 13 19:32:00 2025 (84 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 19:32:00 2025 (84 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 19:32:00 2025 (146 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L1 | Sun Jul 13 19:32:00 2025 (146 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L4 | Sun Jul 13 19:32:00 2025 (146 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:32:00 2025 (146 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 19:32:01 2025 (796 ms) | general | Measured frame rate = 59.055116 fps
+
+L4 | Sun Jul 13 19:32:01 2025 (797 ms) | general | Closest possible frame rate = 60 fps
+
+L4 | Sun Jul 13 19:32:01 2025 (797 ms) | general | Vsync seems to be enforcing an allowed frame rate of 60 fps.
+
+L1 | Sun Jul 13 19:32:01 2025 (830 ms) | general | CRITICAL ERROR:  TGA file graphics/instructions.tga does not exist
+L4 | Sun Jul 13 19:32:01 2025 (830 ms) | general | OneLife client v430 (binV=430, dataV=0) starting up
+L4 | Sun Jul 13 19:32:01 2025 (831 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:32:01 2025 (831 ms) | general | setLetterbox called with 1280.000000x720.000000
+L1 | Sun Jul 13 19:32:01 2025 (831 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (831 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (831 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (831 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (831 ms) | general | CRITICAL ERROR:  TGA file graphics/font_handwriting_32_32.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (831 ms) | general | CRITICAL ERROR:  TGA file graphics/font_pencil_32_32.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (831 ms) | general | CRITICAL ERROR:  TGA file graphics/font_pencil_erased_32_32.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (854 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (854 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (855 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (855 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (855 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (855 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (855 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (855 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (856 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (856 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (856 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (857 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (857 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (857 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (858 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (858 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (996 ms) | general | CRITICAL ERROR:  TGA file graphics/guiPanel.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (996 ms) | general | CRITICAL ERROR:  TGA file graphics/guiBlood.tga does not exist
+L1 | Sun Jul 13 19:32:01 2025 (996 ms) | general | CRITICAL ERROR:  TGA file graphics/notePaper.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/cellBorder.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/cellFill.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/hintArrow.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/homeSlip.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/homeSlip2.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/chalkBlot.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/pathMark.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip1.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip2.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip3.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip4.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t0.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t1.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t2.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (5 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t3.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (8 ms) | general | CRITICAL ERROR:  TGA file graphics/fullSlip.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (8 ms) | general | CRITICAL ERROR:  TGA file graphics/hungrySlip.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (8 ms) | general | CRITICAL ERROR:  TGA file graphics/starvingSlip.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (8 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet1.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (8 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet2.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (8 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet3.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (8 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet4.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxes.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxFills.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxesErased.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxFillsErased.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/tempArrows.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/tempArrowsErased.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerDashes.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerDashesErased.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBars.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBarsErased.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/homeArrows.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/homeArrowsErased.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay1.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay2.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay3.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (9 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay4.tga does not exist
+L1 | Sun Jul 13 19:32:02 2025 (13 ms) | general | CRITICAL ERROR:  TGA file graphics/photoBorder.tga does not exist
+L4 | Sun Jul 13 19:41:22 2025 (772 ms) | general | New game starting up
+L4 | Sun Jul 13 19:41:22 2025 (772 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 19:41:22 2025 (772 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 19:41:22 2025 (773 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 19:41:22 2025 (773 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 19:41:22 2025 (773 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 19:41:22 2025 (773 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 19:41:22 2025 (774 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 19:41:22 2025 (774 ms) | general | 30 fps
+L4 | Sun Jul 13 19:41:22 2025 (774 ms) | general | 60 fps
+L4 | Sun Jul 13 19:41:22 2025 (774 ms) | general | 100 fps
+L4 | Sun Jul 13 19:41:22 2025 (774 ms) | general | 120 fps
+L4 | Sun Jul 13 19:41:22 2025 (774 ms) | general | 144 fps
+L4 | Sun Jul 13 19:41:22 2025 (774 ms) | general | 165 fps
+L4 | Sun Jul 13 19:41:22 2025 (779 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 19:41:22 2025 (780 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 19:41:22 2025 (780 ms) | general | All resolutions available
+L4 | Sun Jul 13 19:41:23 2025 (65 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 19:41:23 2025 (66 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 19:41:23 2025 (343 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L1 | Sun Jul 13 19:41:23 2025 (343 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L4 | Sun Jul 13 19:41:23 2025 (343 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:41:23 2025 (343 ms) | general | setLetterbox called with 1280.000000x720.000000
+L1 | Sun Jul 13 19:41:23 2025 (443 ms) | general | CRITICAL ERROR:  TGA file graphics/instructions.tga does not exist
+L4 | Sun Jul 13 19:41:23 2025 (445 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 19:41:23 2025 (445 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:41:23 2025 (445 ms) | general | setLetterbox called with 1280.000000x720.000000
+L1 | Sun Jul 13 19:41:23 2025 (445 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (445 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (445 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (445 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (445 ms) | general | CRITICAL ERROR:  TGA file graphics/font_handwriting_32_32.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (445 ms) | general | CRITICAL ERROR:  TGA file graphics/font_pencil_32_32.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (445 ms) | general | CRITICAL ERROR:  TGA file graphics/font_pencil_erased_32_32.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (452 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (452 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (454 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (454 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (454 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (454 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (454 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (454 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (455 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (455 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (456 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (457 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (457 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (458 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (458 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:23 2025 (458 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/guiPanel.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/guiBlood.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/notePaper.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/cellBorder.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/cellFill.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/hintArrow.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/homeSlip.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/homeSlip2.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/chalkBlot.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/pathMark.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (870 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (871 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip1.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (871 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip2.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (871 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip3.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (871 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip4.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (872 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t0.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (872 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t1.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (872 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t2.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (872 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t3.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (875 ms) | general | CRITICAL ERROR:  TGA file graphics/fullSlip.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (875 ms) | general | CRITICAL ERROR:  TGA file graphics/hungrySlip.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (875 ms) | general | CRITICAL ERROR:  TGA file graphics/starvingSlip.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (875 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet1.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (875 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet2.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (875 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet3.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (875 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet4.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxes.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxFills.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxesErased.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxFillsErased.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/tempArrows.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/tempArrowsErased.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerDashes.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerDashesErased.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBars.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBarsErased.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/homeArrows.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/homeArrowsErased.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay1.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay2.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay3.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (876 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay4.tga does not exist
+L1 | Sun Jul 13 19:41:35 2025 (891 ms) | general | CRITICAL ERROR:  TGA file graphics/photoBorder.tga does not exist
+L4 | Sun Jul 13 19:42:32 2025 (577 ms) | general | New game starting up
+L4 | Sun Jul 13 19:42:32 2025 (577 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 19:42:32 2025 (577 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | 30 fps
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | 60 fps
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | 100 fps
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | 120 fps
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | 144 fps
+L4 | Sun Jul 13 19:42:32 2025 (578 ms) | general | 165 fps
+L4 | Sun Jul 13 19:42:32 2025 (580 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 19:42:32 2025 (580 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 19:42:32 2025 (580 ms) | general | All resolutions available
+L4 | Sun Jul 13 19:42:32 2025 (667 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 19:42:32 2025 (668 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 19:42:32 2025 (737 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L1 | Sun Jul 13 19:42:32 2025 (737 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L4 | Sun Jul 13 19:42:32 2025 (737 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:42:32 2025 (737 ms) | general | setLetterbox called with 1280.000000x720.000000
+L1 | Sun Jul 13 19:42:32 2025 (826 ms) | general | CRITICAL ERROR:  TGA file graphics/instructions.tga does not exist
+L4 | Sun Jul 13 19:42:32 2025 (828 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 19:42:32 2025 (828 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:42:32 2025 (828 ms) | general | setLetterbox called with 1280.000000x720.000000
+L1 | Sun Jul 13 19:42:32 2025 (828 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (828 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (828 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (828 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (828 ms) | general | CRITICAL ERROR:  TGA file graphics/font_handwriting_32_32.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (828 ms) | general | CRITICAL ERROR:  TGA file graphics/font_pencil_32_32.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (828 ms) | general | CRITICAL ERROR:  TGA file graphics/font_pencil_erased_32_32.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (832 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (832 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (833 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (833 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (834 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (834 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (834 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (834 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (835 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (835 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (836 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (837 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (837 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (837 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (837 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:32 2025 (837 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/guiPanel.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/guiBlood.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/notePaper.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/cellBorder.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/cellFill.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/hintArrow.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/homeSlip.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/homeSlip2.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/chalkBlot.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/pathMark.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (626 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (628 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip1.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (628 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip2.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (628 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip3.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (628 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip4.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (628 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t0.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (628 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t1.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (628 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t2.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (628 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t3.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/fullSlip.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungrySlip.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/starvingSlip.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet1.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet2.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet3.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet4.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxes.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxFills.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxesErased.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxFillsErased.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/tempArrows.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/tempArrowsErased.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerDashes.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerDashesErased.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBars.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBarsErased.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/homeArrows.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (631 ms) | general | CRITICAL ERROR:  TGA file graphics/homeArrowsErased.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (632 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay1.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (632 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay2.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (632 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay3.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (632 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay4.tga does not exist
+L1 | Sun Jul 13 19:42:39 2025 (641 ms) | general | CRITICAL ERROR:  TGA file graphics/photoBorder.tga does not exist
+L4 | Sun Jul 13 19:42:48 2025 (207 ms) | general | New game starting up
+L4 | Sun Jul 13 19:42:48 2025 (207 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 19:42:48 2025 (207 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 19:42:48 2025 (207 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 19:42:48 2025 (207 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | 30 fps
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | 60 fps
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | 100 fps
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | 120 fps
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | 144 fps
+L4 | Sun Jul 13 19:42:48 2025 (208 ms) | general | 165 fps
+L4 | Sun Jul 13 19:42:48 2025 (209 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 19:42:48 2025 (209 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 19:42:48 2025 (209 ms) | general | All resolutions available
+L4 | Sun Jul 13 19:42:48 2025 (292 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 19:42:48 2025 (293 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 19:42:48 2025 (363 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L1 | Sun Jul 13 19:42:48 2025 (363 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L4 | Sun Jul 13 19:42:48 2025 (363 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:42:48 2025 (363 ms) | general | setLetterbox called with 1280.000000x720.000000
+L1 | Sun Jul 13 19:42:48 2025 (409 ms) | general | CRITICAL ERROR:  TGA file graphics/instructions.tga does not exist
+L4 | Sun Jul 13 19:42:48 2025 (410 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 19:42:48 2025 (410 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:42:48 2025 (410 ms) | general | setLetterbox called with 1280.000000x720.000000
+L1 | Sun Jul 13 19:42:48 2025 (410 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (410 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (410 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (410 ms) | general | CRITICAL ERROR:  TGA file graphics/font_32_64.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (410 ms) | general | CRITICAL ERROR:  TGA file graphics/font_handwriting_32_32.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (410 ms) | general | CRITICAL ERROR:  TGA file graphics/font_pencil_32_32.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (410 ms) | general | CRITICAL ERROR:  TGA file graphics/font_pencil_erased_32_32.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (413 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (413 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (413 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (413 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (414 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (414 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (414 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (414 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (415 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (415 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (415 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (416 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (416 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (416 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (416 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:48 2025 (416 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (926 ms) | general | CRITICAL ERROR:  TGA file graphics/guiPanel.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (926 ms) | general | CRITICAL ERROR:  TGA file graphics/guiBlood.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (926 ms) | general | CRITICAL ERROR:  TGA file graphics/notePaper.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/cellBorder.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/cellFill.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/hintArrow.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/homeSlip.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/homeSlip2.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/chalkBlot.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/pathMark.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (927 ms) | general | CRITICAL ERROR:  TGA file graphics/hiddenFieldTexture.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (928 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip1.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (928 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip2.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (928 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip3.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (928 ms) | general | CRITICAL ERROR:  TGA file graphics/yumSlip4.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (928 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t0.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (928 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t1.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (928 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t2.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (928 ms) | general | CRITICAL ERROR:  TGA file graphics/ground_t3.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (931 ms) | general | CRITICAL ERROR:  TGA file graphics/fullSlip.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (931 ms) | general | CRITICAL ERROR:  TGA file graphics/hungrySlip.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (931 ms) | general | CRITICAL ERROR:  TGA file graphics/starvingSlip.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (931 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet1.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (931 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet2.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (931 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet3.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (931 ms) | general | CRITICAL ERROR:  TGA file graphics/hintSheet4.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxes.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxFills.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxesErased.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBoxFillsErased.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/tempArrows.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/tempArrowsErased.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerDashes.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerDashesErased.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBars.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/hungerBarsErased.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/homeArrows.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/homeArrowsErased.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay1.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay2.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay3.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (932 ms) | general | CRITICAL ERROR:  TGA file graphics/photoDisplay4.tga does not exist
+L1 | Sun Jul 13 19:42:54 2025 (941 ms) | general | CRITICAL ERROR:  TGA file graphics/photoBorder.tga does not exist
+L4 | Sun Jul 13 19:48:28 2025 (418 ms) | general | New game starting up
+L4 | Sun Jul 13 19:48:28 2025 (418 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 19:48:28 2025 (418 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 19:48:28 2025 (418 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 19:48:28 2025 (419 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 19:48:28 2025 (419 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 19:48:28 2025 (419 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 19:48:28 2025 (419 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 19:48:28 2025 (419 ms) | general | 30 fps
+L4 | Sun Jul 13 19:48:28 2025 (419 ms) | general | 60 fps
+L4 | Sun Jul 13 19:48:28 2025 (419 ms) | general | 100 fps
+L4 | Sun Jul 13 19:48:28 2025 (420 ms) | general | 120 fps
+L4 | Sun Jul 13 19:48:28 2025 (420 ms) | general | 144 fps
+L4 | Sun Jul 13 19:48:28 2025 (420 ms) | general | 165 fps
+L4 | Sun Jul 13 19:48:28 2025 (422 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 19:48:28 2025 (422 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 19:48:28 2025 (422 ms) | general | All resolutions available
+L4 | Sun Jul 13 19:48:28 2025 (716 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 19:48:28 2025 (717 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 19:48:29 2025 (260 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 19:48:29 2025 (342 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:48:29 2025 (342 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 19:48:29 2025 (557 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 19:48:29 2025 (558 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 19:48:29 2025 (558 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 19:50:27 2025 (47 ms) | general | exiting...
+
+L4 | Sun Jul 13 19:50:27 2025 (47 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sun Jul 13 19:50:27 2025 (130 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sun Jul 13 19:50:27 2025 (130 ms) | general | Freeing sound sprites
+
+L4 | Sun Jul 13 19:50:27 2025 (135 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sun Jul 13 19:50:27 2025 (254 ms) | general | exiting: Deleting screen
+
+L4 | Sun Jul 13 19:50:27 2025 (254 ms) | general | exiting: freeing drawString
+
+L4 | Sun Jul 13 19:50:27 2025 (255 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sun Jul 13 19:50:27 2025 (264 ms) | general | exiting: Done.
+
+L4 | Sun Jul 13 23:00:38 2025 (724 ms) | general | New game starting up
+L4 | Sun Jul 13 23:00:38 2025 (724 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | 30 fps
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | 60 fps
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | 100 fps
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | 120 fps
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | 144 fps
+L4 | Sun Jul 13 23:00:38 2025 (725 ms) | general | 165 fps
+L4 | Sun Jul 13 23:00:38 2025 (727 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:00:38 2025 (728 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:00:38 2025 (728 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:00:38 2025 (850 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:00:38 2025 (850 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:00:41 2025 (319 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:00:41 2025 (361 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:00:41 2025 (361 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:00:41 2025 (428 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:00:41 2025 (428 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:00:41 2025 (428 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:02:36 2025 (361 ms) | general | exiting...
+
+L4 | Sun Jul 13 23:02:36 2025 (362 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sun Jul 13 23:02:36 2025 (457 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sun Jul 13 23:02:36 2025 (457 ms) | general | Freeing sound sprites
+
+L4 | Sun Jul 13 23:02:36 2025 (474 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sun Jul 13 23:02:36 2025 (599 ms) | general | exiting: Deleting screen
+
+L4 | Sun Jul 13 23:02:36 2025 (599 ms) | general | exiting: freeing drawString
+
+L4 | Sun Jul 13 23:02:36 2025 (600 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sun Jul 13 23:02:36 2025 (610 ms) | general | exiting: Done.
+
+L4 | Sun Jul 13 23:08:42 2025 (587 ms) | general | New game starting up
+L4 | Sun Jul 13 23:08:42 2025 (587 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:08:42 2025 (587 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:08:42 2025 (587 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | 30 fps
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | 60 fps
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | 100 fps
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | 120 fps
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | 144 fps
+L4 | Sun Jul 13 23:08:42 2025 (588 ms) | general | 165 fps
+L4 | Sun Jul 13 23:08:42 2025 (590 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:08:42 2025 (590 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:08:42 2025 (590 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:08:42 2025 (681 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:08:42 2025 (681 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:08:42 2025 (756 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:08:42 2025 (803 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:08:42 2025 (803 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:08:42 2025 (857 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:08:42 2025 (857 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:08:42 2025 (857 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:11:13 2025 (753 ms) | general | exiting...
+
+L4 | Sun Jul 13 23:11:13 2025 (753 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sun Jul 13 23:11:13 2025 (848 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sun Jul 13 23:11:13 2025 (849 ms) | general | Freeing sound sprites
+
+L4 | Sun Jul 13 23:11:13 2025 (858 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sun Jul 13 23:11:14 2025 (63 ms) | general | exiting: Deleting screen
+
+L4 | Sun Jul 13 23:11:14 2025 (64 ms) | general | exiting: freeing drawString
+
+L4 | Sun Jul 13 23:11:14 2025 (64 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sun Jul 13 23:11:14 2025 (76 ms) | general | exiting: Done.
+
+L4 | Sun Jul 13 23:27:50 2025 (533 ms) | general | New game starting up
+L4 | Sun Jul 13 23:27:50 2025 (533 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:27:50 2025 (534 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:27:50 2025 (534 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:27:50 2025 (534 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:27:50 2025 (534 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:27:50 2025 (534 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:27:50 2025 (535 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:27:50 2025 (535 ms) | general | 30 fps
+L4 | Sun Jul 13 23:27:50 2025 (535 ms) | general | 60 fps
+L4 | Sun Jul 13 23:27:50 2025 (535 ms) | general | 100 fps
+L4 | Sun Jul 13 23:27:50 2025 (535 ms) | general | 120 fps
+L4 | Sun Jul 13 23:27:50 2025 (535 ms) | general | 144 fps
+L4 | Sun Jul 13 23:27:50 2025 (535 ms) | general | 165 fps
+L4 | Sun Jul 13 23:27:50 2025 (537 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:27:50 2025 (537 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:27:50 2025 (537 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:27:50 2025 (627 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:27:50 2025 (627 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:27:50 2025 (700 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:27:50 2025 (740 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:27:50 2025 (740 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:27:50 2025 (791 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:27:50 2025 (791 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:27:50 2025 (791 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:28:53 2025 (694 ms) | general | exiting...
+
+L4 | Sun Jul 13 23:28:53 2025 (694 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sun Jul 13 23:28:53 2025 (774 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sun Jul 13 23:28:53 2025 (774 ms) | general | Freeing sound sprites
+
+L4 | Sun Jul 13 23:28:53 2025 (782 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sun Jul 13 23:28:53 2025 (883 ms) | general | exiting: Deleting screen
+
+L4 | Sun Jul 13 23:28:53 2025 (883 ms) | general | exiting: freeing drawString
+
+L4 | Sun Jul 13 23:28:53 2025 (884 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sun Jul 13 23:28:53 2025 (893 ms) | general | exiting: Done.
+
+L4 | Sun Jul 13 23:33:01 2025 (830 ms) | general | New game starting up
+L4 | Sun Jul 13 23:33:01 2025 (830 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | 30 fps
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | 60 fps
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | 100 fps
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | 120 fps
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | 144 fps
+L4 | Sun Jul 13 23:33:01 2025 (831 ms) | general | 165 fps
+L4 | Sun Jul 13 23:33:01 2025 (833 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:33:01 2025 (833 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:33:01 2025 (833 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:33:01 2025 (917 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:33:01 2025 (920 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:33:01 2025 (985 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:33:02 2025 (24 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:33:02 2025 (24 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:33:02 2025 (68 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:33:02 2025 (68 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:33:02 2025 (68 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:33:53 2025 (990 ms) | general | exiting...
+
+L4 | Sun Jul 13 23:33:53 2025 (990 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sun Jul 13 23:33:54 2025 (86 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sun Jul 13 23:33:54 2025 (86 ms) | general | Freeing sound sprites
+
+L4 | Sun Jul 13 23:33:54 2025 (94 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sun Jul 13 23:33:54 2025 (196 ms) | general | exiting: Deleting screen
+
+L4 | Sun Jul 13 23:33:54 2025 (196 ms) | general | exiting: freeing drawString
+
+L4 | Sun Jul 13 23:33:54 2025 (197 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sun Jul 13 23:33:54 2025 (206 ms) | general | exiting: Done.
+
+L4 | Sun Jul 13 23:37:55 2025 (119 ms) | general | New game starting up
+L4 | Sun Jul 13 23:37:55 2025 (120 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:37:55 2025 (120 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:37:55 2025 (121 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:37:55 2025 (121 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:37:55 2025 (121 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:37:55 2025 (121 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:37:55 2025 (122 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:37:55 2025 (122 ms) | general | 30 fps
+L4 | Sun Jul 13 23:37:55 2025 (122 ms) | general | 60 fps
+L4 | Sun Jul 13 23:37:55 2025 (122 ms) | general | 100 fps
+L4 | Sun Jul 13 23:37:55 2025 (122 ms) | general | 120 fps
+L4 | Sun Jul 13 23:37:55 2025 (122 ms) | general | 144 fps
+L4 | Sun Jul 13 23:37:55 2025 (122 ms) | general | 165 fps
+L4 | Sun Jul 13 23:37:55 2025 (124 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:37:55 2025 (124 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:37:55 2025 (124 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:37:55 2025 (291 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:37:55 2025 (292 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:37:55 2025 (471 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:37:55 2025 (561 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:37:55 2025 (561 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:37:55 2025 (669 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:37:55 2025 (669 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:37:55 2025 (669 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:41:15 2025 (826 ms) | general | exiting...
+
+L4 | Sun Jul 13 23:41:15 2025 (826 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sun Jul 13 23:41:15 2025 (918 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sun Jul 13 23:41:15 2025 (918 ms) | general | Freeing sound sprites
+
+L4 | Sun Jul 13 23:41:15 2025 (928 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sun Jul 13 23:41:16 2025 (39 ms) | general | exiting: Deleting screen
+
+L4 | Sun Jul 13 23:41:16 2025 (39 ms) | general | exiting: freeing drawString
+
+L4 | Sun Jul 13 23:41:16 2025 (39 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sun Jul 13 23:41:16 2025 (48 ms) | general | exiting: Done.
+
+L4 | Sun Jul 13 23:45:31 2025 (378 ms) | general | New game starting up
+L4 | Sun Jul 13 23:45:31 2025 (379 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:45:31 2025 (379 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:45:31 2025 (379 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:45:31 2025 (379 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:45:31 2025 (379 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:45:31 2025 (379 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:45:31 2025 (380 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:45:31 2025 (380 ms) | general | 30 fps
+L4 | Sun Jul 13 23:45:31 2025 (380 ms) | general | 60 fps
+L4 | Sun Jul 13 23:45:31 2025 (380 ms) | general | 100 fps
+L4 | Sun Jul 13 23:45:31 2025 (380 ms) | general | 120 fps
+L4 | Sun Jul 13 23:45:31 2025 (380 ms) | general | 144 fps
+L4 | Sun Jul 13 23:45:31 2025 (380 ms) | general | 165 fps
+L4 | Sun Jul 13 23:45:31 2025 (382 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:45:31 2025 (382 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:45:31 2025 (382 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:45:31 2025 (467 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:45:31 2025 (468 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:45:31 2025 (540 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:45:31 2025 (581 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:45:31 2025 (581 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:45:31 2025 (641 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:45:31 2025 (641 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:45:31 2025 (641 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:46:19 2025 (411 ms) | general | exiting...
+
+L4 | Sun Jul 13 23:46:19 2025 (411 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sun Jul 13 23:46:19 2025 (503 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sun Jul 13 23:46:19 2025 (503 ms) | general | Freeing sound sprites
+
+L4 | Sun Jul 13 23:46:19 2025 (513 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sun Jul 13 23:46:19 2025 (669 ms) | general | exiting: Deleting screen
+
+L4 | Sun Jul 13 23:46:19 2025 (669 ms) | general | exiting: freeing drawString
+
+L4 | Sun Jul 13 23:46:19 2025 (670 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sun Jul 13 23:46:19 2025 (681 ms) | general | exiting: Done.
+
+L4 | Sun Jul 13 23:48:59 2025 (632 ms) | general | New game starting up
+L4 | Sun Jul 13 23:48:59 2025 (632 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:48:59 2025 (633 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:48:59 2025 (633 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:48:59 2025 (633 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | 30 fps
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | 60 fps
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | 100 fps
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | 120 fps
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | 144 fps
+L4 | Sun Jul 13 23:48:59 2025 (634 ms) | general | 165 fps
+L4 | Sun Jul 13 23:48:59 2025 (636 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:48:59 2025 (637 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:48:59 2025 (637 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:48:59 2025 (800 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:48:59 2025 (800 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:48:59 2025 (965 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:49:00 2025 (46 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:49:00 2025 (46 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:49:00 2025 (166 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:49:00 2025 (166 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:49:00 2025 (166 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:53:22 2025 (497 ms) | general | New game starting up
+L4 | Sun Jul 13 23:53:22 2025 (497 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:53:22 2025 (497 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:53:22 2025 (497 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | 30 fps
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | 60 fps
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | 100 fps
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | 120 fps
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | 144 fps
+L4 | Sun Jul 13 23:53:22 2025 (498 ms) | general | 165 fps
+L4 | Sun Jul 13 23:53:22 2025 (500 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:53:22 2025 (501 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:53:22 2025 (501 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:53:22 2025 (676 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:53:22 2025 (676 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:53:22 2025 (767 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:53:22 2025 (848 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:53:22 2025 (848 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:53:22 2025 (916 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:53:22 2025 (916 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:53:22 2025 (916 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:53:59 2025 (358 ms) | general | exiting...
+
+L4 | Sun Jul 13 23:53:59 2025 (358 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Sun Jul 13 23:53:59 2025 (510 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Sun Jul 13 23:53:59 2025 (510 ms) | general | Freeing sound sprites
+
+L4 | Sun Jul 13 23:53:59 2025 (513 ms) | general | exiting: freeing frameDrawer
+
+L4 | Sun Jul 13 23:53:59 2025 (661 ms) | general | exiting: Deleting screen
+
+L4 | Sun Jul 13 23:53:59 2025 (661 ms) | general | exiting: freeing drawString
+
+L4 | Sun Jul 13 23:53:59 2025 (662 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Sun Jul 13 23:53:59 2025 (674 ms) | general | exiting: Done.
+
+L4 | Sun Jul 13 23:56:19 2025 (623 ms) | general | New game starting up
+L4 | Sun Jul 13 23:56:19 2025 (623 ms) | general | Target game image size:  1280x720
+
+L4 | Sun Jul 13 23:56:19 2025 (623 ms) | general | Ideal window dimensions:  1280x720
+
+L4 | Sun Jul 13 23:56:19 2025 (623 ms) | general | Trying to start in window mode.
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | Want to use largest window that fits on screen.
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | Largest-window mode would offer a <25width increase, using requested window size instead.
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | Screen dimensions for largest-window mode:  1280x720
+
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | The following frame rates are considered possible:
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | 30 fps
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | 60 fps
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | 100 fps
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | 120 fps
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | 144 fps
+L4 | Sun Jul 13 23:56:19 2025 (624 ms) | general | 165 fps
+L4 | Sun Jul 13 23:56:19 2025 (627 ms) | general | Constructing ScreenGL with requested 1280x720, 60 fps, fullscreen(0)
+L4 | Sun Jul 13 23:56:19 2025 (627 ms) | general | Current screen configuration is 1440x900 with aspect ratio 1.60
+L4 | Sun Jul 13 23:56:19 2025 (627 ms) | general | All resolutions available
+L4 | Sun Jul 13 23:56:19 2025 (737 ms) | general | ScreenGL gave us 1280x720, 60 fps
+L4 | Sun Jul 13 23:56:19 2025 (738 ms) | general | Setting non-integer-scaled screen image size of 1280x720
+L4 | Sun Jul 13 23:56:19 2025 (958 ms) | general | Successfully opened audio: 44100Hz (requested 44100Hz), sample buffer size=1024 (requested 1024)
+
+L4 | Sun Jul 13 23:56:20 2025 (44 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:56:20 2025 (44 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Sun Jul 13 23:56:20 2025 (120 ms) | general | OneLife client v430 (binV=430, dataV=429) starting up
+L4 | Sun Jul 13 23:56:20 2025 (120 ms) | general | setViewSize called with 1280.000000
+L4 | Sun Jul 13 23:56:20 2025 (120 ms) | general | setLetterbox called with 1280.000000x720.000000
+L4 | Mon Jul 14 00:15:48 2025 (547 ms) | general | exiting...
+
+L4 | Mon Jul 14 00:15:48 2025 (548 ms) | general | exiting: calling SDL_CloseAudio
+
+L4 | Mon Jul 14 00:15:48 2025 (683 ms) | general | exiting: Deleting sceneHandler
+
+L4 | Mon Jul 14 00:15:48 2025 (684 ms) | general | Freeing sound sprites
+
+L4 | Mon Jul 14 00:15:48 2025 (706 ms) | general | exiting: freeing frameDrawer
+
+L4 | Mon Jul 14 00:15:48 2025 (905 ms) | general | exiting: Deleting screen
+
+L4 | Mon Jul 14 00:15:48 2025 (905 ms) | general | exiting: freeing drawString
+
+L4 | Mon Jul 14 00:15:48 2025 (906 ms) | general | exiting: calling SDL_Quit()
+
+L4 | Mon Jul 14 00:15:48 2025 (943 ms) | general | exiting: Done.
+
